@@ -22,7 +22,7 @@
 
 ___________
 
-> The paper is currently under review. The source code, knowledge graph, pretrained resources, and documentation will be released immediately after paper acceptance.
+> The paper is currently under review. The source code, pretrained resources, and documentation will be released immediately after paper acceptance.
 
 ---
 
@@ -51,6 +51,8 @@ The proposed ERLG-Update consists of three major stages:
 ---
 
 # Land Cover Concept Knowledge Graph (LCCKG)
+
+Download Link：[LCCKG](https://github.com/HuangWBill/LCCKG_ERLG-update/master/LCCKG.xlsx)
 
 The proposed knowledge graph contains
 
