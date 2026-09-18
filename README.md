@@ -52,7 +52,7 @@ The proposed ERLG-Update consists of three major stages:
 
 # Land Cover Concept Knowledge Graph (LCCKG)
 
-Download Link：[LCCKG](https://github.com/HuangWBill/LCCKG_ERLG-update/master/LCCKG.xlsx)
+Download Link：[LCCKG](https://github.com/HuangWBill/LCCKG_ERLG-update/blob/master/LCCKG.xlsx)
 
 The proposed knowledge graph contains
 
